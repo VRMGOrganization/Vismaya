@@ -1,3 +1,4 @@
 Vismaya
 .............................
-3D animation tool
+3D animation tool.
+Free software.
