@@ -1,2 +1,1 @@
-Vismaya is a
-3D animation tool. It is very user friendly open source software...
+Vismaya is a 3D animation tool. It is user friendly open source software..
